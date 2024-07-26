@@ -18,7 +18,7 @@ This is a simple implementation of the classic Snake game using Python's Turtle 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/snake-game.git
+    git clone https://github.com/Dimplektech/Snake-Game.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -27,6 +27,6 @@ This is a simple implementation of the classic Snake game using Python's Turtle 
 
 ### Running the Game
 
-Run the `snake.py` file using Python:
+Run the `main.py` file using Python:
 ```bash
-python snake.py
+python main.py
